@@ -1,1 +1,1 @@
-export * from './components/atoms/label.js';
+export * from './components/atoms/label/label';
